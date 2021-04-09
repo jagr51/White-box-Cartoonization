@@ -8,7 +8,7 @@ by Xinrui Wang and Jinze yu
 
 import tensorflow as tf
 #import tensorflow.contrib.slim as slim
-from tf_slim import slim
+import slim
 import utils
 import os
 import numpy as np
